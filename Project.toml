@@ -1,4 +1,5 @@
 [deps]
+GR = "28b8d3ca-fb5f-59d9-8090-bfdbd6d07a71"
 IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
 JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
 KrylovKit = "0b1a1467-8014-51b9-945f-bf0ae24f4b77"
